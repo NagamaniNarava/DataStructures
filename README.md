@@ -1,7 +1,7 @@
 # DataStructures
 This Repository has solutions to some of the problems I have solved in "Cracking the coding interview,4 edition"
 
-It has solutions for few Coding interview cquestions from HackerMoon Site.
+It has solutions for few Coding interview questions from HackerMoon Site.
 
 My Tip : Please try to solve the problem on your own before looking for solutions.
 
